@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/moll-y/testing/compare/v1.0.0...v2.0.0) (2022-01-05)
+
+
+### Features
+
+* yyy ([4bd020e](https://github.com/moll-y/testing/commits/4bd020e47fb9d6a153a51d9adf19e31062690a11))
+
 ## [1.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v0.1.1...v1.0.0) (2022-01-05)
 
 
